@@ -37,3 +37,5 @@ cd autoscaler
 
 [GoDoc]: https://godoc.org/k8s.io/autoscaler
 [GoDoc Widget]: https://godoc.org/k8s.io/autoscaler?status.svg
+
+test
